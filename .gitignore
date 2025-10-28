@@ -1,0 +1,7 @@
+data/
+models/
+config.py
+figs
+*.png
+**/__pycache__
+.vscode
